@@ -1,0 +1,20 @@
+ash
+beech
+cat-tail
+cedar
+clover
+cyprus
+daisy
+dandelion
+dogwood
+elm
+fern
+fig
+fir
+juniper
+maple
+poison ivy
+sweetgum
+sycamore
+trout lily
+tulip tree
